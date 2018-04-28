@@ -1,0 +1,22 @@
+Hasta Hakları Mobil Projesi:
+  Login:
+    ☐ Hastane logosunun arka planda olduğu bir login sayfası oluşturulacak. @created(09-04-2018 16:23)
+
+  Arama Kayıtları:
+    ☐ 2 günlük süre zarfında açılmış olan arama kayıtları görüntüleniyor. @created(09-04-2018 16:07)
+    ☐ Table'da rowlarda arama kaydının açılış zamanı, hasta protokol numarası, hasta adı, arama tipi, atanan kişi ve durum gösteriliyor. @created(09-04-2018 16:07)
+    ☐ Kayıtların filtrelenebildiği, tarih aralığının değiştirilebildiği bir mekanizma olmalı. @created(09-04-2018 16:08)
+    ☐ Yeni arama kaydı oluşturulabilsin. @created(09-04-2018 16:08)
+
+  Takipler:
+    ☐ 2 günlük süre zarfında açılmış olan takipler görüntüleniyor. @created(09-04-2018 16:07)
+    ☐ Table'da rowlarda arama kaydının açılış zamanı, hasta protokol numarası, hasta adı, arama tipi, atanan kişi ve durum gösteriliyor. @created(09-04-2018 16:07)
+    ☐ Kayıtların filtrelenebildiği, tarih aralığının değiştirilebildiği bir mekanizma olmalı. @created(09-04-2018 16:08)
+    ☐ Yeni takip oluşturulabilsin. @created(09-04-2018 16:08)
+
+  Anketler:
+    ☐ 2 günlük süre zarfında açılmış olan anket kayıtları görüntüleniyor. @created(09-04-2018 16:07)
+    ☐ Table'da rowlarda arama kaydının açılış zamanı, hasta protokol numarası, hasta adı, arama tipi, atanan kişi ve durum gösteriliyor. @created(09-04-2018 16:07)
+    ☐ Kayıtların filtrelenebildiği, tarih aralığının değiştirilebildiği bir mekanizma olmalı. @created(09-04-2018 16:08)
+    ☐ Yeni anket kaydı oluşturulabilsin. @created(09-04-2018 16:08)
+
